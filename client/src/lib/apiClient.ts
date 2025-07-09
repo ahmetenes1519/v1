@@ -1,6 +1,6 @@
 // API Client to replace Supabase functionality
 class ApiClient {
-  private baseUrl = process.env.NODE_ENV === 'production' ? '/.netlify/functions/api' : '/api';
+  private baseUrl = '/api';
 
   private async request<T>(endpoint: string, options: RequestInit = {}): Promise<{ data: T | null; error: any }> {
     try {

@@ -1,7 +1,7 @@
 import type { Express } from "express";
 import express from "express";
 import { createServer, type Server } from "http";
-import { storage } from "./storage-netlify";
+import { storage } from "./storage-file";
 import { insertUserSchema, insertPostSchema, insertDuaRequestSchema, insertCommentSchema, insertCommunitySchema, insertEventSchema, insertReportSchema, insertUserBanSchema } from "@shared/schema";
 import { autoModerateContent, checkUserBanStatus } from "./contentModeration";
 import { uploadImage, uploadVideo, isValidImageUrl, isValidVideoUrl, convertToEmbedUrl } from "./fileUpload";

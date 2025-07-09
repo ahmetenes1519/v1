@@ -7,6 +7,9 @@ vite.config.ts.*
 
 # Environment variables
 .env
+
+# Veri dosyaları (isteğe bağlı olarak ignore edebilirsiniz)
+# data/*.json
 .env.local
 .env.development.local
 .env.test.local
