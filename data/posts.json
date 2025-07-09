@@ -1,0 +1,56 @@
+[
+  {
+    "user_id": "mcw6wbelq6ypjf8c3dg",
+    "content": "Selamün aleyküm kardeşlerim! Bu güzel İslami platformda olmaktan çok mutluyum. Allah hepimizi hayırda birleştirsin. 🤲",
+    "type": "text",
+    "media_url": null,
+    "category": "Selamlaşma",
+    "tags": [
+      "selam",
+      "kardeşlik",
+      "hayır"
+    ],
+    "likes_count": 0,
+    "comments_count": 0,
+    "shares_count": 0,
+    "id": "mcw6wbnwnfeal9fs9es",
+    "created_at": "2025-07-09T16:45:01.580Z",
+    "updated_at": "2025-07-09T16:45:01.580Z"
+  },
+  {
+    "user_id": "mcw6wbmubw0dxrnbzke",
+    "content": "İslami sosyal platformumuza hoş geldiniz! Burada güzel paylaşımlar yapabilir, kardeşlerimizle etkileşimde bulunabilirsiniz. 🕌",
+    "type": "text",
+    "media_url": null,
+    "category": "Duyuru",
+    "tags": [
+      "hoşgeldin",
+      "platform",
+      "duyuru"
+    ],
+    "likes_count": 0,
+    "comments_count": 0,
+    "shares_count": 0,
+    "id": "mcw6wbpn65abfii4cj",
+    "created_at": "2025-07-09T16:45:01.643Z",
+    "updated_at": "2025-07-09T16:45:01.643Z"
+  },
+  {
+    "user_id": "mcw6wbelq6ypjf8c3dg",
+    "content": "Bugün çok güzel bir hadis okudum: \"Müslüman, elinden ve dilinden Müslümanların emin olduğu kimsedir.\" (Buhari) 📖",
+    "type": "text",
+    "media_url": null,
+    "category": "Hadis",
+    "tags": [
+      "hadis",
+      "İslam",
+      "öğüt"
+    ],
+    "likes_count": 0,
+    "comments_count": 0,
+    "shares_count": 0,
+    "id": "mcw6wbq2c4qmd684mef",
+    "created_at": "2025-07-09T16:45:01.658Z",
+    "updated_at": "2025-07-09T16:45:01.658Z"
+  }
+]

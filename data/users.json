@@ -1,0 +1,30 @@
+[
+  {
+    "email": "demo@islamic-platform.com",
+    "name": "Demo Kullanıcı",
+    "username": "demo_user",
+    "avatar_url": null,
+    "bio": "İslami değerlere bağlı bir kardeşiniz",
+    "location": "İstanbul",
+    "website": null,
+    "verified": true,
+    "role": "user",
+    "id": "mcw6wbelq6ypjf8c3dg",
+    "created_at": "2025-07-09T16:45:01.245Z",
+    "updated_at": "2025-07-09T16:45:01.245Z"
+  },
+  {
+    "email": "admin@islamic-platform.com",
+    "name": "Platform Yöneticisi",
+    "username": "admin",
+    "avatar_url": null,
+    "bio": "İslami sosyal platform yöneticisi",
+    "location": "İstanbul",
+    "website": null,
+    "verified": true,
+    "role": "admin",
+    "id": "mcw6wbmubw0dxrnbzke",
+    "created_at": "2025-07-09T16:45:01.542Z",
+    "updated_at": "2025-07-09T16:45:01.542Z"
+  }
+]
