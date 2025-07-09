@@ -1,0 +1,40 @@
+{
+  "name": "Islamic Social Platform",
+  "description": "Modern Islamic social media platform with PostgreSQL backend",
+  "version": "1.0.0",
+  "main": "server/index.ts",
+  "type": "fullstack",
+  "framework": "react",
+  "backend": "node",
+  "database": "postgresql",
+  "env": {
+    "NODE_ENV": "development",
+    "PORT": "5000"
+  },
+  "scripts": {
+    "dev": "NODE_ENV=development tsx server/index.ts",
+    "build": "vite build && esbuild server/index.ts --platform=node --packages=external --bundle --format=esm --outdir=dist",
+    "start": "NODE_ENV=production node dist/index.js"
+  },
+  "features": [
+    "PostgreSQL Database",
+    "User Authentication", 
+    "Post Management",
+    "Islamic Prayer Requests",
+    "Community System",
+    "Admin Panel",
+    "Content Moderation",
+    "Dark/Light Themes",
+    "Real-time Updates"
+  ],
+  "deployment": {
+    "platform": "bolt.new",
+    "buildCommand": "npm run build",
+    "startCommand": "npm run start",
+    "envVars": [
+      "DATABASE_URL",
+      "NODE_ENV",
+      "PORT"
+    ]
+  }
+}
